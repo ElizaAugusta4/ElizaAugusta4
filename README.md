@@ -1,6 +1,5 @@
 <div>
   <a href="https://github.com/ElizaAugusta4"device-widt>
-  <img height="385em" src="imagens/eliza.png"/>
   <img height="380em" src="https://github-readme-stats.vercel.app/api?username=ElizaAugusta4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="390em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ElizaAugusta4&layout=compact&langs_count=8&theme=dracula"/>
 <div>
