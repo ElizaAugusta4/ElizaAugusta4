@@ -1,4 +1,4 @@
-#Olá, seja Bem-vindo ao meu GitHub.#
+Olá, seja Bem-vindo ao meu GitHub.
 
 
 
