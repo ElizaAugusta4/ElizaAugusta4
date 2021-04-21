@@ -1,6 +1,6 @@
 <p align="left">
 <h1 align ="center">Olá, seja Bem-vindo ao meu GitHub</h1>
-<img alt="Coding" src="https://user-images.githubusercontent.com/65902368/114281937-9d5d6100-9a17-11eb-813d-a05faec2b389.gif" align="right" height="450" align="right"/>
+<img alt="Coding" src="<img height="385em" src="imagens/eliza.png" align="right" height="450" align="right"/>
 <div>
   <a href="https://github.com/ElizaAugusta4"device-widt>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ElizaAugusta4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -14,8 +14,6 @@
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
 </div>
-  
-  
   
   <div>
   <a href = "mailto: eliza.19.bz@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23EA4335?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
