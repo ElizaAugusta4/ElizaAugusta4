@@ -1,6 +1,6 @@
 <p align="left">
 <h1 align ="center">Olá, seja Bem-vindo ao meu GitHub</h1>
-<img alt="Coding" src="https://www.creativevisualart.com/wp-content/uploads/2014/02/NicholasBuerAstrophotography10.jpg" align="right" height="450" align="right"/>
+<img alt="Coding" src="https://www.creativevisualart.com/wp-content/uploads/2014/02/NicholasBuerAstrophotography10.jpg" align="center" height="450" align="right"/>
 <div>
   <a href="https://github.com/ElizaAugusta4"device-widt>
   <img height="200em" src="https://github-readme-stats.vercel.app/api?username=ElizaAugusta4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
