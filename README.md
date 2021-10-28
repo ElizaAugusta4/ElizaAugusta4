@@ -36,9 +36,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-
-<br/>
-
 <div color = "blue";>
   <a href="https://github.com/ElizaAugusta4"device-widt>
   <img height="450em" src="https://github-readme-stats.vercel.app/api?username=ElizaAugusta4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
