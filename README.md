@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=VanessaSwerts&color=006bed)
+![](https://komarev.com/ghpvc/?username=ElizaAugusta4&color=006bed)
 
 <h3> :woman: &nbsp;Desenvolvedora Full Stack </h3>
 
@@ -36,12 +36,6 @@
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
   ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-
-<br/>
-
-<a href="https://github.com/VanessaSwerts">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=dracula&show_icons=true" />
-</a>
 
 <br/>
 
