@@ -22,6 +22,8 @@
   ![GeneXus](https://img.shields.io/badge/-GeneXus-333333?style=flat&logo=GeneXus)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=MongoDB)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=TypeScript)
+  ![Nextjs](https://img.shields.io/badge/-Nextjs-333333?style=flat&logo=Nextjs)
+  ![Nodejs](https://img.shields.io/badge/-Nodejs-333333?style=flat&logo=Nodejs)
 
 **Utilidades**
 
