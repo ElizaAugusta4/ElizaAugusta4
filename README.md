@@ -1,7 +1,7 @@
 
 ![](https://komarev.com/ghpvc/?username=ElizaAugusta4&color=006bed)
 
-<h3> :woman: &nbsp;Desenvolvedora Full Stack </h3>
+<h3> :woman: &nbsp;Desenvolvedora Web </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Computação** na **Universidade Estadual da Paraíba(UEPB)**</a>.
