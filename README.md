@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Computação** na **Universidade Estadual da Paraíba(UEPB)**</a>.
-- 💼 &nbsp; Atualmente em busca de uma oportunidade na área de **Desenvolvimento Web**.
+- 💼 &nbsp; Atualmente trabalhando na FMX Soluções em Tecnologia como **Analista Desenvolvedora GeneXus**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
