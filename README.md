@@ -5,35 +5,40 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Computação** na **Universidade Estadual da Paraíba(UEPB)**</a>.
-- 💼 &nbsp; Atualmente trabalhando na FMX Soluções em Tecnologia como **Analista Desenvolvedora GeneXus**.
+- 💼 &nbsp; Atualmente trabalhando na Ábaco Tecnologia como **Analista de Sistemas GeneXus**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
-**Aplicações e Dados**
+**Linguagens de Programação**
 
-
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-  ![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-  ![GeneXus](https://img.shields.io/badge/-GeneXus-333333?style=flat&logo=GeneXus)
-
-**Utilidades**
-
-  ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
+* Java
+* GeneXus
 
 **DevOps**
-
+  !GeneXus Server
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
- 
+  
 
 **Ferramentas de Desenvolvimento**
 
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  * GeneXus
+  * Eclipse
+  * Intellij
+  
+**Ferramentas de Teste e Monitoramento**
 
+  * JUnit
+  * Weblogic
+  * Rancher 
+  
+**Bancos de Dados**
+
+  *OracleSQL
+  *MYSQL
+  *SQLSERVER
+  
+  
 <div color = "blue";>
   <a href="https://github.com/ElizaAugusta4"device-widt>
   <img height="450em" src="https://github-readme-stats.vercel.app/api?username=ElizaAugusta4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
