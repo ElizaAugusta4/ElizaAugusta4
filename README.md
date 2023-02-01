@@ -36,9 +36,7 @@
   
 **Bancos de Dados**
   
-  (OracleSql
-  ,MySql
-  ,SqlServer)
+  (OracleSql, MySql, SqlServer)
   
 
   <div>
