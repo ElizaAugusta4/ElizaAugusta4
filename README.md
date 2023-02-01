@@ -32,12 +32,13 @@
   * JUnit
   * Weblogic
   * Rancher 
+
   
 **Bancos de Dados**
-
-  *OracleSQL
-  *MYSQL
-  *SQLSERVER
+  
+  (OracleSql
+  ,MySql
+  ,SqlServer)
   
 
   <div>
