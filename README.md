@@ -11,32 +11,35 @@
 
 **Linguagens de Programação**
 
+* Python
+* JavaScript
 * Java
-* GeneXus
+  
 
 **DevOps**
 
   * GeneXus Server
   * Git
   * GitHub
+  * AWS
+  * Docker
   
 
 **Ferramentas de Desenvolvimento**
 
   * GeneXus
-  * Eclipse
-  * Intellij
-  
+  * Vscode
+      
 **Ferramentas de Teste e Monitoramento**
 
-  * JUnit
+  * PUnit
   * Weblogic
   * Rancher 
 
   
 **Bancos de Dados**
   
-  (OracleSql, MySql, SqlServer)
+  (OracleSql, MySql, SqlServer,Postgresql)
   
 
   <div>
