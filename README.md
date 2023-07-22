@@ -23,6 +23,7 @@
   * GitHub
   * AWS
   * Docker
+  * Terraform
   
 
 **Ferramentas de Desenvolvimento**
@@ -34,7 +35,11 @@
 
   * PUnit
   * Weblogic
-  * Rancher 
+  * Rancher
+  * Grafana
+  * Mocha
+  * Prometheus
+  * Postman
 
   
 **Bancos de Dados**
