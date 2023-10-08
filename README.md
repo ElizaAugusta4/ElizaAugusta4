@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 &nbsp; Estudando **Computação** na **Universidade Estadual da Paraíba(UEPB)**</a>.
-- 💼 &nbsp; Atualmente trabalhando na Ábaco Tecnologia como **Analista de Sistemas GeneXus**.
+
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
