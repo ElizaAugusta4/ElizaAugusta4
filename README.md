@@ -4,34 +4,49 @@ Olá! Eu sou a Eliza, uma Analista de Sistemas apaixonada por Infraestrutura e E
 :rocket:  Minhas Habilidades
 
 Linguagens de Programação
+
 Python
-JavaScript
-Java
+
 Ferramentas DevOps
-GeneXus Server
+
 Git & GitHub
+
 AWS
+
 Docker
+
 Terraform
 
 Ferramentas de Desenvolvimento
 
 GeneXus
+
 VSCode
 
 Ferramentas de Teste e Monitoramento
 
 PUnit
+
 Weblogic
+
 Rancher
+
 Grafana
+
 Mocha
+
 Prometheus
+
 Postman
+
 Bancos de Dados
+
 Oracle SQL
+
 MySQL
+
 SQL Server
+
 PostgreSQL
 
 :mailbox:  Entre em Contato
