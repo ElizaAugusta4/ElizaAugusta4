@@ -57,7 +57,6 @@ Estou ansiosa para me conectar e explorar novas oportunidades. Fique à vontade 
 
 Email: elizaaugusta71@gmail.com
 LinkedIn: Eliza Augusta
-Instagram: computer_eliza
 
 Vamos nos conectar e discutir como minhas habilidades e entusiasmo por DevOps podem contribuir para sua equipe!
 
