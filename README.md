@@ -1,6 +1,6 @@
 :woman:  Sobre Mim
 
-Olá! 👋 Sou SRE | Suporte | DevOps, apaixonada por explorar soluções inovadoras para otimizar processos e garantir a estabilidade e eficiência dos sistemas.
+Olá! 👋 Sou PSE Analyst, apaixonada por explorar soluções inovadoras para otimizar processos e garantir a estabilidade e eficiência dos sistemas.
 
 :rocket:  Minhas Habilidades
 
