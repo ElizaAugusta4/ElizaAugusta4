@@ -4,51 +4,10 @@ Olá! 👋 Sou SRE | Suporte | DevOps, apaixonada por explorar soluções inovad
 
 :rocket:  Minhas Habilidades
 
-Linguagens de Programação
-
-Python
-
-Ferramentas DevOps
-
-Git & GitHub
-
-AWS
-
-Docker
-
-Terraform
-
-Ferramentas de Desenvolvimento
-
-GeneXus
-
-VSCode
-
-Ferramentas de Teste e Monitoramento
-
-PUnit
-
-Weblogic
-
-Rancher
-
-Grafana
-
-Mocha
-
-Prometheus
-
-Postman
-
-Bancos de Dados
-
-Oracle SQL
-
-MySQL
-
-SQL Server
-
-PostgreSQL
+Linguagens de Programação: Python
+Ferramentas DevOps: Git & GitHub, AWS, Docker, Terraform
+Ferramentas de Teste e Monitoramento: Rancher, Grafana, Prometheus, Postman.
+Bancos de Dados: Oracle SQL, MySQL, SQL Server e PostgreSQL
 
 :mailbox:  Entre em Contato
 
