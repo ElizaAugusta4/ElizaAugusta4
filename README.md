@@ -1,7 +1,6 @@
 :woman:  Sobre Mim
 
-
-Olá! Eu sou a Eliza, uma Analista de Sistemas apaixonada por Infraestrutura e Engenharia de Confiabilidade de Sites (SRE). Atualmente cursando Ciência da Computação na Universidade Estadual da Paraíba (UEPB), estou dedicada a explorar novas tecnologias e criar soluções de software inovadoras.
+Olá! 👋 Sou SRE | Suporte | DevOps, apaixonada por explorar soluções inovadoras para otimizar processos e garantir a estabilidade e eficiência dos sistemas.
 
 :rocket:  Minhas Habilidades
 
