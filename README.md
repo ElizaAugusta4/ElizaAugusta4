@@ -4,10 +4,10 @@ Olá! 👋 Sou PSE Analyst, apaixonada por explorar soluções inovadoras para o
 
 :rocket:  Minhas Habilidades
 
-Linguagens de Programação: Python
-Ferramentas DevOps: Git & GitHub, AWS, Docker, Terraform
+Linguagens de Programação: Python.
+Ferramentas DevOps: Git & GitHub, AWS, Docker, Terraform.
 Ferramentas de Teste e Monitoramento: Rancher, Grafana, Prometheus, Postman.
-Bancos de Dados: Oracle SQL, MySQL, SQL Server e PostgreSQL
+Bancos de Dados: Oracle SQL, MySQL, SQL Server e PostgreSQL.
 
 :mailbox:  Entre em Contato
 
@@ -16,5 +16,5 @@ Estou ansiosa para me conectar e explorar novas oportunidades. Fique à vontade 
 Email: elizaaugusta71@gmail.com
 LinkedIn: Eliza Augusta
 
-Vamos nos conectar e discutir como minhas habilidades e entusiasmo por DevOps podem contribuir para sua equipe!
+
 
