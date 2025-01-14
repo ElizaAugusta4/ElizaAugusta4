@@ -6,12 +6,10 @@ Olá! 👋 Sou PSE Analyst, apaixonada por explorar soluções inovadoras para o
 
 Linguagens de Programação: Python.
 Ferramentas DevOps: Git & GitHub, AWS, Docker, Terraform.
-Ferramentas de Teste e Monitoramento: Rancher, Grafana, Prometheus, Postman.
-Bancos de Dados: Oracle SQL, MySQL, SQL Server e PostgreSQL.
+Ferramentas de Monitoramento: Grafana, Prometheus, ELK.
+
 
 :mailbox:  Entre em Contato
-
-Estou ansiosa para me conectar e explorar novas oportunidades. Fique à vontade para entrar em contato:
 
 Email: elizaaugusta71@gmail.com
 LinkedIn: Eliza Augusta
