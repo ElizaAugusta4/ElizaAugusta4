@@ -4,15 +4,11 @@ Olá! 👋 Sou SRE Analyst, apaixonada por explorar soluções inovadoras para o
 
 :rocket:  Minhas Habilidades
 
-Linguagens de Programação: Python.
-Ferramentas DevOps: Git & GitHub, AWS, Docker, Terraform.
+Linguagens de Programação: Python e Go.
+Ferramentas Infraestrutura e Automações: GitHub Action, Gitlab, Terraform.
+Cloud: Kubernetes e AWS. 
 Ferramentas de Monitoramento: Grafana, Prometheus, ELK.
 
-
-:mailbox:  Entre em Contato
-
-Email: elizaaugusta71@gmail.com
-LinkedIn: Eliza Augusta
 
 
 
