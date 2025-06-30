@@ -4,10 +4,13 @@ Olá! 👋 Sou SRE Analyst, apaixonada por explorar soluções inovadoras para o
 
 :rocket:  Minhas Habilidades
 
-Linguagens de Programação: Python e Go.
-Ferramentas Infraestrutura e Automações: GitHub Action, Gitlab, Terraform.
-Cloud: Kubernetes e AWS. 
-Ferramentas de Monitoramento: Grafana, Prometheus, ELK.
+**Linguagens de Programação:** Python e Go.
+
+**Ferramentas Infraestrutura e Automações:** GitHub Action, Gitlab, Terraform.
+
+**Cloud:** Kubernetes e AWS. 
+
+**Ferramentas de Monitoramento:** Grafana, Prometheus, ELK.
 
 
 
