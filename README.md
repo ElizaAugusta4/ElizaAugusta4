@@ -6,7 +6,7 @@ Olá! 👋 Sou SRE Analyst, apaixonada por explorar soluções inovadoras para o
 
 **Linguagens de Programação:** Python e Go.
 
-**Ferramentas Infraestrutura e Automações:** GitHub Action, Gitlab, Terraform.
+**Ferramentas Infraestrutura e Automações:** GitHub Actions, Gitlab, Terraform.
 
 **Cloud:** Kubernetes e AWS. 
 
