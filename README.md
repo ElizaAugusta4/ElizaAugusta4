@@ -10,7 +10,7 @@ Olá! 👋 Sou SRE Analyst, apaixonada por explorar soluções inovadoras para o
 
 **Cloud:** Kubernetes e AWS. 
 
-**Ferramentas de Monitoramento:** Grafana, Prometheus, ELK, Zabbix e Datadog.
+**Ferramentas de Monitoramento:** Grafana, Prometheus, ELK, Zabbix, Datadog, Promtail e Loki.
 
 
 
