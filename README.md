@@ -4,7 +4,7 @@ Olá! 👋 Sou SRE Analyst, apaixonada por explorar soluções inovadoras para o
 
 :rocket:  Minhas Habilidades
 
-**Linguagens de Programação:** Python e Go.
+**Linguagens de Programação:** Python.
 
 **Ferramentas Infraestrutura e Automações:** GitHub Actions, Gitlab, Terraform.
 
