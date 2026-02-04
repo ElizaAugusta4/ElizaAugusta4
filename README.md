@@ -1,4 +1,4 @@
-# Olá! 👋 Eu sou Eliza Augusta
+# Olá! 👋 
 
 Sou **SRE Analyst**, apaixonada por explorar soluções inovadoras para **otimizar processos** e **garantir a estabilidade e eficiência de sistemas**.  
 
