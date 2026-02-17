@@ -1,6 +1,6 @@
 # Olá! 👋 
 
-Sou **SRE Analyst**, apaixonada por explorar soluções inovadoras para **otimizar processos** e **garantir a estabilidade e eficiência de sistemas**.  
+Sou **SRE Analyst** | **DevOps** , apaixonada por explorar soluções inovadoras para **otimizar processos** e **garantir a estabilidade e eficiência de sistemas**.  
 
 Adoro trabalhar com **observabilidade, automação e cloud**, sempre buscando maneiras de deixar sistemas mais confiáveis e escaláveis.
 
